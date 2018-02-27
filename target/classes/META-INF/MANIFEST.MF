@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1514469885258
+Build-Jdk: 1.8.0_121
+Built-By: XJO
+Bundle-Description: Empty Camel Blueprint Example
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.html
+Bundle-ManifestVersion: 2
+Bundle-Name: Empty Camel Blueprint Example [Proxy-SOAP-to-REST]
+Bundle-SymbolicName: Proxy-SOAP-to-REST
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: a.b.c;uses:="javax.xml.bind.annotation,javax.xml.namespa
+ ce,javax.xml.ws,javax.jws";version="1.0.0.SNAPSHOT",com.acme.services.s
+ oap.util;uses:="org.apache.camel,a.b.c,org.springframework.beans.factor
+ y.annotation";version="1.0.0.SNAPSHOT"
+Import-Package: javax.jws,javax.xml.bind.annotation,javax.xml.namespace,
+ javax.xml.ws,org.apache.camel;version="[2.17,3)",org.osgi.service.bluep
+ rint;version="[1.0.0,2.0.0)",org.springframework.beans.factory.annotati
+ on
+Tool: Bnd-1.50.0

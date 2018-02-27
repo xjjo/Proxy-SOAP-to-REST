@@ -1,0 +1,13 @@
+a\b\c\ObjectFactory.class
+a\b\c\Add.class
+a\b\c\CalculatorPortType_CalculatorHttpsEndpoint_Client.class
+com\acme\services\soap\util\SoapUtils.class
+a\b\c\CalculatorPortType_CalculatorHttpsSoap12Endpoint_Client.class
+a\b\c\CalculatorPortType_CalculatorHttpSoap12Endpoint_Client.class
+a\b\c\AddResponse.class
+a\b\c\CalculatorPortType_CalculatorHttpsSoap11Endpoint_Client.class
+a\b\c\CalculatorPortType_CalculatorHttpSoap11Endpoint_Client.class
+a\b\c\package-info.class
+a\b\c\CalculatorPortType.class
+a\b\c\Calculator.class
+a\b\c\CalculatorPortType_CalculatorHttpEndpoint_Client.class
